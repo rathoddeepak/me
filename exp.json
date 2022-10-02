@@ -21,9 +21,9 @@
     "to_year": "Present"
   },
   {
-    "name": "Loknete Vilasraoji Deshmukh Arogya Suraksha Yojana",
-    "desc": "Government Application to manage 3000+ patients visits, active in 100+ hospitals in latur",
-    "about": "This application is built for ios & android in react native to manage patient visits, prescriptions and health data",
+    "name": "Fresh Line - Meat Delivery App",
+    "desc": "First Meat Delivery Application in Latur",
+    "about": "This application is build in react and nodejs for backend, it also includes complex and advance logistics management system",
     "tags": [
       "React Native",
       "React JS",
@@ -39,26 +39,6 @@
       "https://lh3.googleusercontent.com/p3Y8Q1g9H_72i2Aqh7ptFjqIVA1LmJUwn1bMuoCBSdWlU0wR9_6ZFNRvH1jqCO-xrJEA"
     ],
     "storeLink": "https://play.google.com/store/apps/details?id=com.freshline",
-    "from_year" : "2022",
-    "to_year": "Present"
-  },
-  {
-    "name": "Fresh Line - Meat Delivery App",
-    "desc": "First Meat Delivery Application in Latur",
-    "about": "This application is build in react and nodejs for backend, it also includes complex and advance logistics management system",
-    "tags": [
-      "React Native",
-      "React JS",
-      "Golang"
-    ],
-    "image": "https://lh3.googleusercontent.com/N_e-WIc0avpCKTaGUwXYH3rGZ3v5zjrt_9xhZD72KGsd8UrTRqUKUyJecPIRn-rqQA",
-    "photos": [
-      "https://iili.io/LNlQ9V.jpg",
-      "https://lh3.googleusercontent.com/xowKdc_6DZ5lHDN1AAiOwo_7mV_Sayehj5jV0pOtXrkSlx2OuoUKGAU1BI14ddN4Nw",
-      "https://lh3.googleusercontent.com/EvFV2rGoPYmLBf4j7ZCMPYnlL0fPWWJyGeZJyVWobxsH66iWluzgWOwX7sVR2MyKFsc",
-      "https://lh3.googleusercontent.com/M6K_KBpoDlfnnlb42c8vpA-ehimhI7eTJ27cv18nxkaJv9J3ozLaZPsmUy1MQSxZo78"
-    ],
-    "storeLink": "https://drive.google.com/file/d/1HfYlWk1HPf70wesYymN96oc1KKqpqvCd/view",
     "from_year" : "2022",
     "to_year": "Present"
   },
